@@ -1,0 +1,27 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif; /* Define a fonte padrão */
+  background-color: #f4f4f4; /* Cor de fundo da página */
+  color: #333; /* Cor do texto */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Faz o corpo ocupar toda a altura da tela */
+  text-align: center;
+}
+
+/* Estilo para o título h1 */
+h1 {
+  font-size: 2.5rem; /* Tamanho da fonte */
+  color: #007bff; /* Cor do texto */
+  margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
+/* Estilo para o parágrafo p */
+p {
+  font-size: 1.2rem; /* Tamanho da fonte */
+  color: #555; /* Cor do texto */
+  margin-top: 0; /* Remove o espaçamento acima do parágrafo */
+}
